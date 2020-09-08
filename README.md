@@ -12,7 +12,7 @@
 ### Imagem do Projeto 
 
 <div>
-  <img src="./.github/foto.png" />
+  <img src="./.github/twitch.gif" />
 </div>
 
 

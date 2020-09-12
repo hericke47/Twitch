@@ -24,7 +24,7 @@ A proposta foi desenvolver uma interface igual a da folowing page do Twitch
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [ReactJS](https://reactjs.org/)
+- [ReactNative](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 📦️ Como utilizar o projeto
